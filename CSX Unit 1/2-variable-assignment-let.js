@@ -2,6 +2,7 @@
 // Date: 10.19.2023
 // Name: Onelio Viera
 // Subject: Part 1 - Variable Assignment - (let)
+
 const firstName = "Onelio";
 const lastName = "Viera";
 let favFood = "tacos";
