@@ -5,3 +5,6 @@
 
 const  netflixShows = ["Orange is the New Black", "Black Mirror", "Chewing Gum"];
 
+netflixShows.push("The Good Place");
+
+console.log(netflixShows); // [ 'Orange is the New Black', 'Black Mirror', 'Chewing Gum', 'The Good Place' ]
