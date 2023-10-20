@@ -1,0 +1,27 @@
+# CSX-Javascript-practice
+## Part 1
+- Javascript: What is it?
+- Workshop - Intro to JavaScript: Variables, Control Flow, and Looping
+- Intro to JS Pt. 1
+- Comments and the Console
+- Variables & Constants
+- Challenge: Variable Assignment - (var)
+- Challenge: Variable Assignment - (let)
+- Challenge: Constant Assignment - (const)
+- Data Types
+- Challenge: Primitive Data Types
+- Challenge: Strings
+- Challenge: Strings - Escape Sequences
+- Challenge: String Concatenation
+- Challenge: Template Literal
+- Challenge: String Properties & Methods
+- Challenge: Bracket Notation for Strings
+- Challenge: Numbers - Addition/Subtraction
+- Challenge: Numbers - Multiplication/Division
+- Challenge: Numbers - Exponents & Remainders
+- Challenge: Numbers - Incrementor & Decrementor
+- Challenge: Numbers - Assignment Operators
+- Challenge: Booleans
+- Challenge: Booleans: Comparison Operators
+- Challenge: Type Coercion
+- Challenge: typeof Operator
