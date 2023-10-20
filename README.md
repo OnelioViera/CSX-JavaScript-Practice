@@ -1,27 +1,27 @@
 # CSX-Javascript-practice
 ## Part 1
-- Javascript: What is it?
-- Workshop - Intro to JavaScript: Variables, Control Flow, and Looping
-- Intro to JS Pt. 1
-- Comments and the Console
-- Variables & Constants
-- Challenge: Variable Assignment - (var)
-- Challenge: Variable Assignment - (let)
-- Challenge: Constant Assignment - (const)
-- Data Types
-- Challenge: Primitive Data Types
-- Challenge: Strings
-- Challenge: Strings - Escape Sequences
-- Challenge: String Concatenation
-- Challenge: Template Literal
-- Challenge: String Properties & Methods
-- Challenge: Bracket Notation for Strings
-- Challenge: Numbers - Addition/Subtraction
-- Challenge: Numbers - Multiplication/Division
-- Challenge: Numbers - Exponents & Remainders
-- Challenge: Numbers - Incrementor & Decrementor
-- Challenge: Numbers - Assignment Operators
-- Challenge: Booleans
-- Challenge: Booleans: Comparison Operators
-- Challenge: Type Coercion
-- Challenge: typeof Operator
+1. Javascript: What is it?
+2. Workshop - Intro to JavaScript: Variables, Control Flow, and Looping
+3. Intro to JS Pt. 1
+4. Comments and the Console
+5. Variables & Constants
+6. Challenge: Variable Assignment - (var)
+7. Challenge: Variable Assignment - (let)
+8. Challenge: Constant Assignment - (const)
+9. Data Types
+10. Challenge: Primitive Data Types
+11. Challenge: Strings
+12. Challenge: Strings - Escape Sequences
+13. Challenge: String Concatenation
+14. Challenge: Template Literal
+15. Challenge: String Properties & Methods
+16. Challenge: Bracket Notation for Strings
+17. Challenge: Numbers - Addition/Subtraction
+18. Challenge: Numbers - Multiplication/Division
+19. Challenge: Numbers - Exponents & Remainders
+20. Challenge: Numbers - Incrementor & Decrementor
+21. Challenge: Numbers - Assignment Operators
+22. Challenge: Booleans
+23. Challenge: Booleans: Comparison Operators
+24. Challenge: Type Coercion
+25. Challenge: typeof Operator
