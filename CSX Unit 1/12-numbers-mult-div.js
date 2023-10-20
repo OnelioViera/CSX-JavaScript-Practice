@@ -3,14 +3,11 @@
 // Name: Onelio Viera
 // Subject: Part 1 - Numbers - Multiplication/Division
 
-let hometown = "New York City";
-let favAlbum = "The Rise and Fall of Ziggy Stardust and the Spiders From Mars";
+const twentyTimesFour = 20 * 4;
+console.log(twentyTimesFour);
 
-const count = (hometown.length);
-console.log(count);
+const nineOverThree = 9 / 3;
+console.log(nineOverThree);
 
-const upper = (favAlbum.toUpperCase());
-console.log(upper);
-
-const lower = (favAlbum.toLowerCase());
-console.log(lower);
+const twoHundredTimesThree = 200.3 * 3;
+console.log(twoHundredTimesThree);
