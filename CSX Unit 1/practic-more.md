@@ -1,2 +1,6 @@
-### Part 1 - String Concatenation Problem 7
-### Part 1 - String Properties and Methods Problem 9
+### Part 1
+
+[String Concatenation Promblem 7](https://csx.codesmith.io/units/precourse/challenge-string-concatenation)
+
+
+[String Properties and Methods Problem 9](https://csx.codesmith.io/units/precourse/challenge-string-properties-and-methods)
