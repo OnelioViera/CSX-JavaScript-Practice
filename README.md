@@ -1,5 +1,9 @@
 # CSX-Javascript-practice
-## Part 1
+
+
+<details>
+<summary>Part 1</summary>
+
 1. Javascript: What is it?
 2. Workshop - Intro to JavaScript: Variables, Control Flow, and Looping
 3. Intro to JS Pt. 1
@@ -25,3 +29,8 @@
 23. Challenge: Booleans: Comparison Operators
 24. Challenge: Type Coercion
 25. Challenge: typeof Operator
+</details>
+
+
+
+
