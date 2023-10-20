@@ -1,5 +1,6 @@
-# CSX-Javascript-practice
+![codesmith](https://assets.website-files.com/5ee147cc310949c7d83f7f9d/5f30a34fa1634899b41fda8e_codesmith-course-page.png)
 
+# CSX-Javascript-practice
 
 <details>
 <summary>Part 1</summary>
