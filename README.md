@@ -1,6 +1,8 @@
 ![codesmith](https://assets.website-files.com/5ee147cc310949c7d83f7f9d/5f30a34fa1634899b41fda8e_codesmith-course-page.png)
 
-# CSX-Javascript-practice
+# CSX Pre-course 
+
+In the CSX Pre-course you will cover the JavaScript basics such as variables, strings, data types, arrays, and loops. Codesmith designed this unit to give you an introduction to the core JavaScript functionality so you can move on to tackle more advanced challenges. This unit is required pre-course work for JavaScript for Beginners. Completion of this unit is required for admission to CS Prep.
 
 <details>
 <summary>Part 1</summary>
