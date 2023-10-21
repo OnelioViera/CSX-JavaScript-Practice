@@ -60,6 +60,14 @@ In the CSX Pre-course, you will cover the JavaScript basics such as variables, s
 21. Challenge: Objects - Evaluating Keys
 </details>
 
+<details>
+<summary>CS Bin Challenges</summary>
+
+1. Challenge: 1
+2. Challenge: 2
+3. Challenge: 3
+</details>
+
 
 
 
