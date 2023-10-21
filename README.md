@@ -34,6 +34,32 @@ In the CSX Pre-course, you will cover the JavaScript basics such as variables, s
 25. Challenge: typeof Operator
 </details>
 
+<details>
+<summary>Pre-course Part 2</summary>
+
+1. Challenge: Arrays - Examining Elements
+2. Challenge: Arrays - Adding Elements
+3. Challenge: For Loops - Fundamentals
+4. Solution: For Loops - Fundamentals
+5. Challenge: For Loops and Arrays
+6. Solution: For Loops and Arrays
+7. Challenge: For Loops and Array Indices
+8. Challenge: For Loops - Calculating Array Elements
+9. Challenge: While Loops - Fundamentals
+10. Challenge: While Loops - Conditional Expression
+11. Challenge: Control Flow - if statements
+12. Challenge: fizzbuzz
+13. Solution: fizzbuzz
+14. Challenge: Control Flow and Iteration
+15. Challenge: Objects - Examining Properties
+16. Challenge: Objects - Iterating with for... in
+17. Challenge: Objects - Iterating with a for loop
+18. Challenge: Objects - Nested Arrays
+19. Challenge: Objects - Adding Properties
+20. Solution: Objects - Adding Properties
+21. Challenge: Objects - Evaluating Keys
+</details>
+
 
 
 
